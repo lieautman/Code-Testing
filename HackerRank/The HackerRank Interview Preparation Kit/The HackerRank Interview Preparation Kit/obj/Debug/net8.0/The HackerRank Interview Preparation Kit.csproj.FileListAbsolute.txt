@@ -1,0 +1,15 @@
+C:\Users\dumi_\AllFiles\Personal\CodeTesting\HackerRank\The HackerRank Interview Preparation Kit\The HackerRank Interview Preparation Kit\obj\Debug\net8.0\The HackerRank Interview Preparation Kit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dumi_\AllFiles\Personal\CodeTesting\HackerRank\The HackerRank Interview Preparation Kit\The HackerRank Interview Preparation Kit\obj\Debug\net8.0\The HackerRank Interview Preparation Kit.AssemblyInfoInputs.cache
+C:\Users\dumi_\AllFiles\Personal\CodeTesting\HackerRank\The HackerRank Interview Preparation Kit\The HackerRank Interview Preparation Kit\obj\Debug\net8.0\The HackerRank Interview Preparation Kit.AssemblyInfo.cs
+C:\Users\dumi_\AllFiles\Personal\CodeTesting\HackerRank\The HackerRank Interview Preparation Kit\The HackerRank Interview Preparation Kit\obj\Debug\net8.0\The HackerRank Interview Preparation Kit.csproj.CoreCompileInputs.cache
+C:\Users\dumi_\AllFiles\Personal\CodeTesting\HackerRank\The HackerRank Interview Preparation Kit\The HackerRank Interview Preparation Kit\obj\Debug\net8.0\The HackerRank Interview Preparation Kit.sourcelink.json
+C:\Users\dumi_\AllFiles\Personal\CodeTesting\HackerRank\The HackerRank Interview Preparation Kit\The HackerRank Interview Preparation Kit\bin\Debug\net8.0\The HackerRank Interview Preparation Kit.exe
+C:\Users\dumi_\AllFiles\Personal\CodeTesting\HackerRank\The HackerRank Interview Preparation Kit\The HackerRank Interview Preparation Kit\bin\Debug\net8.0\The HackerRank Interview Preparation Kit.deps.json
+C:\Users\dumi_\AllFiles\Personal\CodeTesting\HackerRank\The HackerRank Interview Preparation Kit\The HackerRank Interview Preparation Kit\bin\Debug\net8.0\The HackerRank Interview Preparation Kit.runtimeconfig.json
+C:\Users\dumi_\AllFiles\Personal\CodeTesting\HackerRank\The HackerRank Interview Preparation Kit\The HackerRank Interview Preparation Kit\bin\Debug\net8.0\The HackerRank Interview Preparation Kit.dll
+C:\Users\dumi_\AllFiles\Personal\CodeTesting\HackerRank\The HackerRank Interview Preparation Kit\The HackerRank Interview Preparation Kit\bin\Debug\net8.0\The HackerRank Interview Preparation Kit.pdb
+C:\Users\dumi_\AllFiles\Personal\CodeTesting\HackerRank\The HackerRank Interview Preparation Kit\The HackerRank Interview Preparation Kit\obj\Debug\net8.0\The HackerRank Interview Preparation Kit.dll
+C:\Users\dumi_\AllFiles\Personal\CodeTesting\HackerRank\The HackerRank Interview Preparation Kit\The HackerRank Interview Preparation Kit\obj\Debug\net8.0\refint\The HackerRank Interview Preparation Kit.dll
+C:\Users\dumi_\AllFiles\Personal\CodeTesting\HackerRank\The HackerRank Interview Preparation Kit\The HackerRank Interview Preparation Kit\obj\Debug\net8.0\The HackerRank Interview Preparation Kit.pdb
+C:\Users\dumi_\AllFiles\Personal\CodeTesting\HackerRank\The HackerRank Interview Preparation Kit\The HackerRank Interview Preparation Kit\obj\Debug\net8.0\The HackerRank Interview Preparation Kit.genruntimeconfig.cache
+C:\Users\dumi_\AllFiles\Personal\CodeTesting\HackerRank\The HackerRank Interview Preparation Kit\The HackerRank Interview Preparation Kit\obj\Debug\net8.0\ref\The HackerRank Interview Preparation Kit.dll

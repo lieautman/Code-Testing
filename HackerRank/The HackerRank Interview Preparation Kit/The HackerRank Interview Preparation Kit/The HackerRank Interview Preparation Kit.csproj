@@ -1,0 +1,19 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net8.0</TargetFramework>
+    <RootNamespace>The_HackerRank_Interview_Preparation_Kit</RootNamespace>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="1.Dictionaries\" />
+    <Folder Include="3.String\" />
+    <Folder Include="4.GreedyAlgo\" />
+    <Folder Include="5.Search\" />
+    <Folder Include="6.DynamicProgramming\" />
+  </ItemGroup>
+
+</Project>
