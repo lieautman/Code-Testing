@@ -26,7 +26,7 @@ class Result
 
     public static int activityNotifications(List<int> expenditure, int d)
     {
-
+         
     }
 
 }
