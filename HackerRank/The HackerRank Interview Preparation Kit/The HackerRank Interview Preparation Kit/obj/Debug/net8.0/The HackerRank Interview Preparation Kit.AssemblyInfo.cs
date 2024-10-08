@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("The HackerRank Interview Preparation Kit")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d089fa45aa9f62a7cea8db95fb23d76a317096f1")]
 [assembly: System.Reflection.AssemblyProductAttribute("The HackerRank Interview Preparation Kit")]
 [assembly: System.Reflection.AssemblyTitleAttribute("The HackerRank Interview Preparation Kit")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
